@@ -5936,5 +5936,12 @@
             "default_branch_commit_sha": "dc1467cf4a08d4fe4732126ba20c690f3081889b",
             "commit_time": "2024-12-27T15:39:16Z"
         }
+        {
+    "name": "Prompt Architect",
+    "url": "https://github.com/SilentLuxRay/sd-forge-prompt-architect",
+    "description": "Advanced prompt generator. Supports GGUF models (Qwen 2.5, Llama 3) and standard Transformers. Features direct integration with txt2img.",
+    "added": "2024-10-31",
+    "tags": ["prompt technique", "tools"]
+}
     ]
 }
